@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@hapi/joi": "^16.1.8",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.0",
     "font-awesome": "^4.7.0",
     "joi-browser": "^13.4.0",
